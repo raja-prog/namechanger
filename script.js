@@ -1,4 +1,5 @@
 const obj={
-    username:"king"
+    username:"king",
+    wife : "queen"
 };
 console.log(obj.username);
